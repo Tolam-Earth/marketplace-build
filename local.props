@@ -1,0 +1,4 @@
+# Values are not needed here if they passed in a docker-compose config file
+HEM_OPERATOR_ID=
+HEM_PRIVATE_KEY=
+HEM_OFFSETS_CONTRACT_ID=
