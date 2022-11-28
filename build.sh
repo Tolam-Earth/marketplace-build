@@ -1,7 +1,8 @@
 #!/bin/bash
+set -e
 
-rm frontend/ -rf
-rm backend/ -rf
+rm -rf frontend/
+rm -rf backend/
 
 mkdir -p frontend
 mkdir -p backend
