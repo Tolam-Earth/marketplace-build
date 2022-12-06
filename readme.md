@@ -1,11 +1,11 @@
-# ESG Marketplace Demo 
+# Tolam Marketplace Demo 
 
-This repository is to make it easy to build a demo / test environment for the ESG Marketplace.
+This repository is to make it easy to build a demo / test environment for the Tolam Marketplace.
 
 ## Instructions
 
 - Set up Java 17 and the newest Node.js LTS
-- Run `./checkout-repos.sh` to clone both UI and Services repositories on the `dev` branch
+- Run `./checkout-repos.sh` to clone both UI and Services repositories on the `demo` tagged commit
 - (optional) Go to `build-repos/ui` and `build-repos/services` and switch to desired branches
 - Run `./build.sh` to create docker image
 - (optional) Set desired values in local.props
